@@ -7,7 +7,7 @@ Hello Guys This repository documents my journey of learning Angular through the 
 - [X] **Module 1: Introduction to Angular**
   - [X] Lesson 1: Getting Started with Angular
   - [X] Lesson 2: Angular Architecture Overview
-- [ ] **Module 2: Components and Data Binding**
+- [X] **Module 2: Components and Data Binding**
   - [ ] Lesson 1: Components and Templates
   - [ ] Lesson 2: Data Binding and Directives
 - [ ] **Module 3: Services and Dependency Injection**
