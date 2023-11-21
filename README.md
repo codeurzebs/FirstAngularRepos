@@ -1,6 +1,6 @@
-# Learning Angular on OpenClassroom😊
+# Learning Angular😊
 
-Hello Guys This repository documents my journey of learning Angular through the courses provided by OpenClassroom.
+Hello Guys This repository documents my journey of learning Angular through the courses.
 
 ## Progress
 
@@ -8,7 +8,7 @@ Hello Guys This repository documents my journey of learning Angular through the 
   - [X] Lesson 1: Getting Started with Angular
   - [X] Lesson 2: Angular Architecture Overview
 - [X] **Module 2: Components and Data Binding**
-  - [ ] Lesson 1: Components and Templates
+  - [X] Lesson 1: Components and Templates
   - [ ] Lesson 2: Data Binding and Directives
 - [ ] **Module 3: Services and Dependency Injection**
   - [ ] Lesson 1: Angular Services
